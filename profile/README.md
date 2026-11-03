@@ -11,7 +11,7 @@ Mobile products, business software and digital growth — under one roof.
 
 <a href="https://vesors.com"><img src="https://img.shields.io/badge/VESORS-vesors.com-2563EB?style=for-the-badge" alt="Vesors website" /></a>
 <a href="https://digital.vesors.com"><img src="https://img.shields.io/badge/VESORS_DIGITAL-digital.vesors.com-0F172A?style=for-the-badge" alt="Vesors Digital website" /></a>
-<a href="mailto:mert@vesors.com"><img src="https://img.shields.io/badge/CONTACT-Email-475569?style=for-the-badge" alt="Contact Vesors" /></a>
+<a href="mailto:info@vesors.com"><img src="https://img.shields.io/badge/CONTACT-Email-475569?style=for-the-badge" alt="Contact Vesors" /></a>
 </div>👋 We Are Vesors
 Vesors is an İstanbul-based software development and technology consultancy. We help businesses build their digital infrastructure through corporate websites, e-commerce platforms, mobile applications and accounting software.
 
@@ -89,10 +89,10 @@ We also develop our own products, including Lokmate, an AI-powered nutrition tra
 Have a product idea or a business process to improve? Tell us what you want to build.
 - Software & product development: vesors.com
 - Digital marketing & growth: digital.vesors.com
-- Project inquiries: mert@vesors.com
+- Project inquiries: info@vesors.com
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,100:312E81&height=100&text=LET%27S%20BUILD%20SOMETHING%20GREAT&fontSize=24&fontColor=FFFFFF" width="100%" alt="Let's build something great" />Your next project starts with a conversation.
 
 <a href="https://vesors.com"><img src="https://img.shields.io/badge/Vesors-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Vesors" /></a>
 <a href="https://digital.vesors.com"><img src="https://img.shields.io/badge/Vesors_Digital-0088CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Vesors Digital" /></a>
-<a href="mailto:mert@vesors.com"><img src="https://img.shields.io/badge/mert%40vesors.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="mert@vesors.com" /></a>
+<a href="mailto:info@vesors.com"><img src="https://img.shields.io/badge/info%40vesors.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="info@vesors.com" /></a>
 </div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:0B1120&height=100&section=footer" width="100%" alt="" />
